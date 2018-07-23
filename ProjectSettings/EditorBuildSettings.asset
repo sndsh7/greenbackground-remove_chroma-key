@@ -4,4 +4,32 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Splash_Screen_0.unity
+    guid: 1cb4bc0c05871d143ac9e69afc107773
+  - enabled: 1
+    path: Assets/Scene/Welcome_Screen_1.unity
+    guid: ce4de9a4fc280e0469552644e85c73aa
+  - enabled: 1
+    path: Assets/Scene/Select_Background_2.unity
+    guid: 71067e88f9db821469657303083e2b78
+  - enabled: 1
+    path: Assets/Scene/Main_activity_3.unity
+    guid: c3fa3dd0415d07e40a29bb12a3a528ff
+  - enabled: 1
+    path: Assets/Scene/Preview_Screen_4.unity
+    guid: 6a005cb435e20ec469a4b49ddf06a9f0
+  - enabled: 1
+    path: Assets/Scene/ThankYou_6.unity
+    guid: e5b48a46353f0824494b382f7682a0ea
+  - enabled: 1
+    path: Assets/Scene/calibration_last.unity
+    guid: 3b8b44e61ad596d4d802d9fae892b55f
+  - enabled: 0
+    path: Assets/Scene/Enter_Token_1.unity
+    guid: cfdcc7169816d7d4683dfc0749615ffc
+  - enabled: 0
+    path: Assets/Scene/Share_Activity_5.unity
+    guid: 309e9dfb9922e3a428d9a36a68806d0e
+  m_configObjects: {}

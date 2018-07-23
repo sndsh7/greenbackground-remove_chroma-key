@@ -70,11 +70,11 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Sensitivity: 0.03
+    - _Sensitivity: 0.08
     - _ShowBackground: 0
     - _ShowOriginal: 0
     - _Slope: 0
-    - _Smooth: 0
+    - _Smooth: 0.05
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -85,4 +85,4 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _GreenColor: {r: 0.882353, g: 0.8313726, b: 0.7843138, a: 1}
+    - _GreenColor: {r: 0.6313726, g: 0.882353, b: 0.5058824, a: 1}

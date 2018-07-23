@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{72D14D3E-B9D2-947A-7BC0-80F2BFCB6F3A}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraEffect.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShaderValueAdjustment.cs">
     <Files>
-      <File FileName="Assets/Scripts/WebCam.cs" Line="12" Column="9" />
+      <File FileName="Assets/Scripts/WebCam.cs" Line="13" Column="63" />
       <File FileName="Assets/Scripts/CameraEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShaderValueAdjustment.cs" Line="25" Column="67" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
